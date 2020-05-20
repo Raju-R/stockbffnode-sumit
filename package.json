@@ -2,7 +2,7 @@
   "name": "stockbffnode-sumit",
   "version": "1.0.0",
   "org": "my-org",
-  "description": "Code pattern for starting a typescript-based microservice",
+  "description": "Code pattern for starting a typescript-based microservice-updated",
   "main": "index.js",
   "config": {
     "protocol": "http",
